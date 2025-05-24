@@ -5,11 +5,19 @@ The code loops through every .avi found in the subfolders of the given folder, r
 Each round of the game is stored in a subfolder.  The naming convention appears to be:
 
 /Final/Video/08/            <- round 08
+
 /Final/Video/08/08_mth1.avi <- intro to contestant 1
+
 /Final/Video/08/08_01q.avi  <- question 1
+
 /Final/Video/08/08_01a0.avi <- correct answer
+
 /Final/Video/08/08_01a1.avi <- incorrect answer, obscured by logo
+
 /Final/Video/08/08_01a2.avi <- incorrect answer, blurred
+
 /Final/Video/08/08_01a3.avi <- incorrect answer, uncensored
+
 /Final/Video/08/08_hca.avi  <- challenge intro
+
 /Final/Video/08/08_hcb.avi  <- challenge
